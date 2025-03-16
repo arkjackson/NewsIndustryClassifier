@@ -8,7 +8,7 @@ This project classifies news articles into various industries using natural lang
 - Handles large datasets with chunk-based summarization and multi-threading for performance.
 
 ## Prerequisites
-- Python 3.8 or higher
+- Python 3.10+
 - MySQL database with a `news_articles` table (columns: `title`, `content`)
 - CUDA-enabled GPU (optional, for faster processing)
 
