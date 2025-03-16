@@ -37,9 +37,9 @@ This project classifies news articles into various industries using natural lang
 
 ## Project Structure
 ```
-news-article-industry-classifier/
-├── classify_articles.py  # Main script
-└── README.md             # This file
+NewsIndustryClassifier/
+├── classify_articles.py  
+└── README.md            
 ```
 
 ## How It Works
