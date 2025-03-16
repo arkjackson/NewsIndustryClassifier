@@ -53,4 +53,13 @@ NewsIndustryClassifier/
 - **Industries**: Modify the `industries` list in `classify_articles.py` to suit your needs.
 - **Database**: Adjust the SQL query or table name in the script if your schema differs.
 - **Models**: Swap out `facebook/bart-large-cnn` or `facebook/bart-large-mnli` for lighter models for faster inference.
+
+## License
+
+[MIT License](LICENSE)
+
+## Contact
+
+Email: mihy1968@gmail.com
+
 ---
